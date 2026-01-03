@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="multiThreadProxy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/multiThreadProxy_jar</output-path>
+    <root id="archive" name="multiThreadProxy.jar">
+      <element id="module-output" name="multiThreadProxy" />
+    </root>
+  </artifact>
+</component>

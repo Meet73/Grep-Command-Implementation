@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileReadInChunks">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileReadInChunks</output-path>
+    <root id="archive" name="FileReadInChunks.jar">
+      <element id="module-output" name="FileReadInChunks" />
+    </root>
+  </artifact>
+</component>
